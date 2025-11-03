@@ -99,3 +99,6 @@ code/nlp/models/*
 # Test coverage
 **/coverage/
 **/*.lcov
+
+# models
+**/models/
