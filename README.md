@@ -22,7 +22,7 @@ These projects have a difinitive purpose and conclusion.
 
 ### Unfinished Projects
 
-Just for learning.
+Just for learning. Found in `scratch-projects`.
 
 Everything from Computer Vison to small neural nets
 that only add numbers.
