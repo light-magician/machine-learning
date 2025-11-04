@@ -1,14 +1,7 @@
-Implementation of various ML models for learning purposes
+# Machine Learning
 
-setup
+Practice for everything from tabular data generation, to gpts from scratch.
 
-```bash 
-python -m venv .venv
-
-source .venv/bin/activate
-
-pip install -r requirements.txt
-
-pip list
-```
-
+Some projects will be finished, like `pkmn_stat_generator`,
+many others will just have been experiments, and will be found
+in `scratch-projects`.
